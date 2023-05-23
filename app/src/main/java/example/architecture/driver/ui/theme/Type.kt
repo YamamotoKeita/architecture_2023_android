@@ -1,4 +1,4 @@
-package example.architecture.ui.theme
+package example.architecture.driver.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
